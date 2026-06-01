@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "4cf46f6652850670",
+    "type": "split",
+    "children": [
+      {
+        "id": "81572e92692cdefd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3dc5252e59d02f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大方向/新一代信息技术（含6G、量子科技、集成电路）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "新一代信息技术（含6G、量子科技、集成电路）"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "578831f6ebdae7a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33815613e434a78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "115c8ac763844c79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9e1196c72e7842cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9fe4761f19a16cd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "acc3bde4f00b4151",
+    "type": "split",
+    "children": [
+      {
+        "id": "be1e08ea007095b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d90df5000c9d28a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "大方向/新一代信息技术（含6G、量子科技、集成电路）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "新一代信息技术（含6G、量子科技、集成电路） 的反向链接列表"
+            }
+          },
+          {
+            "id": "69324582d0890a26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大方向/新一代信息技术（含6G、量子科技、集成电路）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "新一代信息技术（含6G、量子科技、集成电路） 的出链列表"
+            }
+          },
+          {
+            "id": "9558aa5dde7b0890",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dcbea433dbb21734",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大方向/新一代信息技术（含6G、量子科技、集成电路）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "新一代信息技术（含6G、量子科技、集成电路） 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "e3dc5252e59d02f3",
+  "lastOpenFiles": [
+    "大方向/新材料（含高端新材料）.md",
+    "大方向/新一代信息技术（含6G、量子科技、集成电路）.md",
+    "专业/机械工程.md",
+    "大方向/专业/物理学.md",
+    "专业/微电子科学与工程.md",
+    "大方向/专业",
+    "提示词.md",
+    "大方向/低空经济、商业航天、航空航天.md",
+    "大方向/专业/电子信息工程.md",
+    "大方向/专业/高分子材料与工程.md",
+    "大方向/专业/食品科学与工程.md",
+    "大方向/专业/音乐表演.md",
+    "大方向/专业/音乐学(师范、非师范).md",
+    "大方向/专业/集成电路设计与集成系统.md",
+    "大方向/专业/过程装备与控制工程.md",
+    "大方向/专业/资源勘查工程.md",
+    "大方向/专业/计算机科学与技术.md",
+    "大方向/专业/英语(翻译方向).md",
+    "大方向/专业/英语(经贸方向).md",
+    "大方向/专业/英语(师范).md",
+    "大方向/专业/社会体育指导与管理.md",
+    "大方向/专业/自动化.md",
+    "大方向/专业/能源化学工程.md",
+    "大方向/专业/能源与动力工程.md",
+    "大方向/专业/网络工程.md",
+    "大方向/专业/给排水科学与工程.md",
+    "大方向/专业/精细化工.md",
+    "大方向/专业",
+    "英语（师范/经贸",
+    "英语（师范",
+    "不是",
+    "大方向"
+  ]
+}
