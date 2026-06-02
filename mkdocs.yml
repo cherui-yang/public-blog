@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: 广油生存指南
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true  # 启用通用模式，以便与外部JS引擎（如MathJax）配合
+
+extra_javascript: 
+  - javascripts/mathjax.js    # 稍后我们要创建的MathJax配置文件
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js  # 使用国内可访问的cdn[reference:2]
