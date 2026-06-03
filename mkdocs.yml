@@ -16,3 +16,11 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+  - search
+  - copy_md:
+      source_dir: docs/geogebra
+      target_dir: geogebra
+      # 你可以根据需要调整文件类型匹配规则
+      # 如果希望复制所有 .html 文件，可以不加 extensions 参数
