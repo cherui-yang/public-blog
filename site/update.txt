@@ -1,3 +1,15 @@
+# 1. 查看当前有哪些文件被修改或新增
+git status
+
+# 2. 将所有变更（新增、修改、删除）添加到暂存区
+git add .
+
+# 3. 提交本次变更，并写一条有意义的注释
+git commit -m "更新：添加阿氏圆笔记，补充GeoGebra几何图"
+
+# 4. 推送到 GitHub 仓库（main 或 master，根据你的实际分支）
+git push origin master
+
 mkdocs gh-deploy
 
 git add .

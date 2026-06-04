@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言/Markdown/Markdown in Typora.md",
+                "file": "1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown in Typora"
+              "title": "1"
             }
           }
         ]
@@ -150,6 +150,32 @@
               "icon": "lucide-list",
               "title": "index 的大纲"
             }
+          },
+          {
+            "id": "cd2b4ce82d6c91b9",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "1.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "84b6ac58287e4b88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ]
       }
@@ -166,11 +192,21 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "8ba6618ec0cb20d0",
   "lastOpenFiles": [
+    "2.md",
+    "Untitled.md",
+    "geogebra/1.1.html.md",
+    "1.md",
     "draft/Plan.md",
     "index.md",
     "AI脚本指令.md",
@@ -196,10 +232,6 @@
     "指南百科导航/CS self learning/使用指南.md",
     "指南百科导航/CS self learning/CS学习规划.md",
     "Plan.md",
-    "指南百科导航/大数据指南/notes/SparkSQL联结操作.md",
-    "指南百科导航/大数据指南/notes/HDFS-Java-API.md",
-    "指南百科导航/大数据指南/notes/Flink_Data_Transformation.md",
-    "指南百科导航/大数据指南/notes/Flink核心概念综述.md",
     "指南百科导航/大数据指南/pictures/大数据技术栈思维导图.png",
     "指南百科导航/大数据指南/resources/txt/dept.txt",
     "指南百科导航/大数据指南/resources/tsv/emp.tsv",
