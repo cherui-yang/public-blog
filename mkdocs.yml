@@ -1,8 +1,5 @@
 site_name: 广油生存指南
 
-
-
-
 theme:
   name: material
   features:
