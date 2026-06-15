@@ -1,9 +1,10 @@
 site_name: 广油生存指南
+site_url: https://cherui-yang.github.io/public-blog/
 
 theme:
   name: material
   features:
-   # - navigation.instant   # 这一行必须有
+    - navigation.instant   # 这一行必须有
 
 markdown_extensions:
   - pymdownx.arithmatex:
