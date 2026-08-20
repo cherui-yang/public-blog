@@ -20,10 +20,7 @@ extra_css:
 
 plugins:
   - search
-  - copy_md:
-      source_dir: docs/geogebra
-      target_dir: geogebra
-      extensions: ['.html']   # 只复制 .html 文件（如果需要 .md 可加 '.md'）
-extra_files:
-  - docs/geogebra/1.1.html
-  - docs/geogebra/1.2.html
+
+
+
+

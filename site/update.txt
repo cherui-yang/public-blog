@@ -1,3 +1,10 @@
+更新
+mkdocs gh-deploy  
+
+推仓库
+git add .
+git commit -m "描述更新"
+git push origin master
 # 1. 查看当前有哪些文件被修改或新增
 git status
 
