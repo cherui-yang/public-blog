@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "sheet_roadmap.md",
+=======
+                "file": "1.md",
+>>>>>>> e25bab6208f8d658529958fcbdcd4057940df8b3
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "sheet_roadmap"
+=======
+              "title": "1"
+>>>>>>> e25bab6208f8d658529958fcbdcd4057940df8b3
             }
           }
         ]
@@ -203,6 +211,7 @@
   },
   "active": "8ba6618ec0cb20d0",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "roadmap.md",
     "index.md",
     "5.md",
@@ -217,6 +226,14 @@
     "2.md",
     "geogebra/1.1.html.md",
     "draft/Plan.md",
+=======
+    "2.md",
+    "Untitled.md",
+    "geogebra/1.1.html.md",
+    "1.md",
+    "draft/Plan.md",
+    "index.md",
+>>>>>>> e25bab6208f8d658529958fcbdcd4057940df8b3
     "AI脚本指令.md",
     "draft/draft.md",
     "指南百科导航/CS self learning/index.md",
@@ -232,15 +249,31 @@
     "指南百科导航/嵌入式/From DS/03-单片机入门-Arduino.md",
     "指南百科导航/嵌入式/From DS/02-电子电路基础.md",
     "指南百科导航/嵌入式/From DS/01-编程基础与计算机原理.md",
+<<<<<<< HEAD
     "指南百科导航/嵌入式/From DS",
     "指南百科导航/嵌入式/Untitled Folder",
     "指南百科导航/Untitled Folder",
+=======
+    "指南百科导航/嵌入式/From DS/00-前言与导读.md",
+    "指南百科导航/嵌入式/From DS/README.md",
+    "指南百科导航/嵌入式/From DS",
+    "指南百科导航/嵌入式/Untitled Folder",
+    "指南百科导航/Untitled Folder",
+    "指南百科导航/CS self learning/使用指南.md",
+    "指南百科导航/CS self learning/CS学习规划.md",
+    "Plan.md",
+>>>>>>> e25bab6208f8d658529958fcbdcd4057940df8b3
     "指南百科导航/大数据指南/pictures/大数据技术栈思维导图.png",
     "指南百科导航/大数据指南/resources/txt/dept.txt",
     "指南百科导航/大数据指南/resources/tsv/emp.tsv",
     "指南百科导航/大数据指南/resources/txt/emp.txt",
     "指南百科导航/大数据指南/resources/tsv/dept.tsv",
     "指南百科导航/大数据指南/resources/parquet/emp.parquet",
+<<<<<<< HEAD
+=======
+    "指南百科导航/大数据指南/resources/orc/dept.orc",
+    "指南百科导航/大数据指南/resources/parquet/dept.parquet",
+>>>>>>> e25bab6208f8d658529958fcbdcd4057940df8b3
     "指南百科导航/大数据指南/pictures/大数据处理简化流程.png",
     "指南百科导航/大数据指南/pictures/zookeeper.jpg",
     "指南百科导航/大数据指南/pictures/zookeeper-zkservice.jpg",
@@ -248,6 +281,11 @@
     "指南百科导航/大数据指南/pictures/zookeeper-zkcomponents.jpg",
     "指南百科导航/大数据指南/pictures/zookeeper-super.png",
     "指南百科导航/大数据指南/pictures/zookeeper-hadoop003.png",
+<<<<<<< HEAD
     "指南百科导航/大数据指南/pictures/zookeeper-hadoop001.png"
+=======
+    "指南百科导航/大数据指南/pictures/zookeeper-hadoop001.png",
+    "指南百科导航/大数据指南/pictures/zookeeper-hadoop002.png"
+>>>>>>> e25bab6208f8d658529958fcbdcd4057940df8b3
   ]
 }

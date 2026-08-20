@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 mkdocs gh-deploy  用这个
 
 
+=======
+>>>>>>> e25bab6208f8d658529958fcbdcd4057940df8b3
 # 1. 查看当前有哪些文件被修改或新增
 git status
 
