@@ -1,3 +1,6 @@
+mkdocs gh-deploy  用这个
+
+
 # 1. 查看当前有哪些文件被修改或新增
 git status
 
