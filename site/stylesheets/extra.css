@@ -1,0 +1,61 @@
+/* 1. 解决显示不全的问题 */
+/*.md-typeset .arithmatex {
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+.md-typeset .MathJax {
+    display: inline-block;
+    max-width: 100%;
+    overflow-x: auto;
+} */
+
+
+/* 2. 限制所有公式容器的宽度，隐藏滚动条，但保留滚动功能 */
+/*.mjx-container,
+.mjx-chtml {
+    overflow-x: auto !important;      /* 启用滚动条 */
+    /*overflow-y: hidden;
+    max-width: 100%;
+    scrollbar-width: none;            /* 对Firefox生效 */
+   /* -ms-overflow-style: none;         /* 对IE/Edge生效 */
+/*}
+/* 对Chrome/Safari生效，完全隐藏滚动条但保留滑动功能 */
+/*.mjx-container::-webkit-scrollbar,
+.mjx-chtml::-webkit-scrollbar {
+    display: none;
+}
+
+/* 3. 允许公式横向滚动，但隐藏滚动条（视觉干净，但依然可滑动） */
+/*.mjx-container, .mjx-chtml {
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+  scrollbar-width: thin;   /* 给 Firefox 保留极细滚动条，也可以改成 'none' */
+  /*-ms-overflow-style: auto;
+}
+
+/* 对于 Chrome/Safari，让滚动条变细且不显眼（若实在不想要可以设为 display: none） */
+/*.mjx-container::-webkit-scrollbar,
+.mjx-chtml::-webkit-scrollbar {
+  height: 4px;             /* 矮一点，不那么丑 */
+ /* background: #f0f0f0;
+}
+.mjx-container::-webkit-scrollbar-thumb,
+.mjx-chtml::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+/*4. */
+/* 隐藏滚动条但保留滚动能力 */
+.arithmatex, .MathJax, mjx-container {
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none;  /* IE/Edge */
+}
+.arithmatex::-webkit-scrollbar, 
+.MathJax::-webkit-scrollbar, 
+mjx-container::-webkit-scrollbar {
+    display: none;  /* Chrome/Safari */
+}
