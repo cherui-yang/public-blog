@@ -1,6 +1,11 @@
 <<<<<<< HEAD
-mkdocs gh-deploy  用这个
+更新
+mkdocs gh-deploy  
 
+推仓库
+git add .
+git commit -m "描述更新"
+git push origin master
 
 =======
 >>>>>>> e25bab6208f8d658529958fcbdcd4057940df8b3
